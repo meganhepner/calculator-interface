@@ -2,15 +2,14 @@
 
 #### _Separation of Business and User Logic, 6.3.20_
 
-#### By _**Megan Hepner**_
+#### By _**Megan Hepner & Janet Karpenske**_
 
 ## Description
-  This webpage added user fuctionality to the previoius Calculator exercise. Users are able to input numbers in add, subtract, multiply and divide fields and view the returned result.
+  This webpage adds a user interface to the previous Calculator exercise. Users are able to input numbers in add, subtract, multiply and divide fields and view the returned result.
 
 
 ## Setup/Installation Requirements
 
-* use the terminal to clone this repository 
 * to clone this content, copy the url provided by the 'clone or download' button in GitHub
 * in terminal use the command 'git clone (GitHub url)'
 * open the content in a web browser
@@ -21,7 +20,7 @@ _For question, concerns, or if you would like to make contributions to this work
 
 ## Technologies Used
 
-Html, CSS, Bootstrap, Javascript, Jquery
+Html, Bootstrap, Javascript, Jquery
 
 ### License
 
